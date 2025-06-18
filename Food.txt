@@ -1,0 +1,24 @@
+Roti,10.00,50,Breakfast
+Parata,15.00,40,Breakfast
+Mixed Veggies with Daal,30.00,30,Breakfast
+Fried Egg,20.00,25,Breakfast
+Rice,30.00,100,Lunch
+Chicken Curry,200.00,50,Lunch
+Beef Curry,300.00,30,Lunch
+Fried Fish,200.00,20,Lunch
+Daal,40.00,50,Lunch
+Veggies,30.00,60,Lunch
+Butter Naan,15.00,50,Dinner
+Kebab,150.00,20,Dinner
+BBQ,150.00,15,Dinner
+Steak with Potato Salad,750.00,10,Dinner
+Spicy Ramyeon,170.00,25,Fast Food
+Cheese Burger,350.00,20,Fast Food
+Margarita Pizza,650.00,10,Fast Food
+Cake,80.00,5,Dessert
+Puddings,45.00,30,Dessert
+Ice Cream,60.00,40,Dessert
+Tea,15.00,100,Beverages
+Coffee,20.00,80,Beverages
+Soda,30.00,60,Beverages
+Mojito,70.00,50,Beverages

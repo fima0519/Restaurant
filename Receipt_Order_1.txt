@@ -1,0 +1,9 @@
+---------- Order Receipt ----------
+Order ID: 1
+Customer ID: 1
+Order Date: 2025-01-17
+Foods:
+Roti x 1 = 10.0
+-----------------------------------
+Total Price: 10.0
+Thank you for your order!
