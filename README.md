@@ -66,7 +66,9 @@ To run the project locally:
 
 1. Clone the repository:
 git clone https://github.com/fima0519/Restaurant.git
+
 2.Open the project in your preferred Java IDE (NetBeans, IntelliJ IDEA, or Eclipse).
+
 3.Run the Restaurant.java file and follow the console prompts to interact with the system.
 
 ---
